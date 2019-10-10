@@ -1,0 +1,12 @@
+a. Each post has a title, link, and role limit
+i. A user can upvote/downvote posts
+ii. Posts dynamically reorder according to number of votes
+iii. A user can create new posts
+iv. A user can dive into the article through posts
+
+a. Flag a problematic post indicating there’s an  issue with the post 
+i. Administrator can inform the user of the violations by adding comments that describe the violation 
+ii. Reduces the vote score such that the post in question is downvoted to least important or bottom of the list. 
+iii. The problematic post is automatically removed if the user does not address the changes within x time period 
+iv. The administrator can remove the post at their discretion 
+v. The user is suspended for 1 week if the violations are not corrected 
